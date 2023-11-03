@@ -1,4 +1,3 @@
-# react_django_demo_app
 # Jenkins CI/CD Pipeline with GitHub Webhook Integration for Docker App Deployment on EC2
 ## Project Overview
 This project demonstrates the setup of a Jenkins CI/CD pipeline with GitHub webhook integration to automate the deployment of a Docker application on AWS EC2 instances. The project focuses on streamlining the development and deployment process, ensuring that changes pushed to the GitHub repository are automatically reflected in the live web application.
